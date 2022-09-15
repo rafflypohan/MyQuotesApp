@@ -1,7 +1,7 @@
 # MyQuotesApp
 This app is for technical test.
 
-## Tools & Resource:
+## Tools & Resources:
 ### - Quotes API: https://github.com/lukePeavey/quotable
 ### - Jetpack Compose
 ### - Hilt
